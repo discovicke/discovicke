@@ -60,7 +60,7 @@ Samtidigt vill jag se och förstå varför man väljer designmönster och system
 Jag är alltid öppen för att **samarbeta på mindre projekt** och experimentera med idéer.  
 Med nyfikenhet och idérikedom lär jag mig gärna något nytt inom systemutveckling, det kan handla om allt från små verktyg till webbkomponenter eller experiment i fullstack. Ingen idé är för galen förrän man har testat!
 
-#### Se dig gärna omkring bland mina repos
+#### Se dig gärna omkring bland mina [repos](https://github.com/stars/discovicke/lists/portfolio-projects)
 
 Känner du för att bidra på ett av mina existerande projekt? **Skicka gärna en pull request**, jag kikar och ger feedback direkt.  
 
