@@ -33,12 +33,13 @@ I systemutveckling tar det sig uttryck i tydlig kod, flexibla lösningar och ett
 ---
 
 ### Nuvarande fokus
-Studerar **Systemutvecklare .NET med AI-kompetens** på Edugrade i Hudiksvall. Examen VT27.  
+Studerar **Systemutvecklare .NET med AI-kompetens**[^Systemutveckling] på Edugrade i Hudiksvall. Examen VT27.  
 Mina topp tre projekt utanför studierna är för tillfället:
 - Angular-projekt: en **Drum Sequencer** som tränar komponentstruktur och state management  
 - Utveckling av min **portfolio-sida** för att finslipa webbskills  
 - Utforskar det **ideala KPK-indexet** [^KPK] för olika programmeringsspråk
 
+[^Systemutveckling]: Länk till kursinnehåll på [skolans hemsida](https://edugrade.com/yh-utbildning-och-nationell-yrkesutbildning/program/systemutvecklarenet-med-ai-kompetens/).
 [^KPK]: KPK = *Kaffe per kodrad*. Ett högst vetenskapligt mått på produktivitet. En fältstudie som spänner sig över en hel livstid och som beställts, bedrivs samt finansieras av mig själv i vetenskapens namn.
 
 ---
