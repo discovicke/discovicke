@@ -36,7 +36,7 @@ I systemutveckling tar det sig uttryck i tydlig kod, flexibla lösningar och ett
 Studerar **Systemutvecklare .NET med AI-kompetens**[^Systemutveckling] på Edugrade i Hudiksvall. Examen VT27.  
 Mina topp tre projekt utanför studierna är för tillfället:
 - Angular-projekt: en **Drum Sequencer** som tränar komponentstruktur och state management  
-- Utveckling av min **portfolio-sida** för att finslipa webbskills  
+- Utveckling av min [**portfolio-sida**](https://viktorjohansson.vercel.app) för att finslipa webbskills  
 - Utforskar det **ideala KPK-indexet** [^KPK] för olika programmeringsspråk
 
 [^Systemutveckling]: Länk till kursinnehåll på [skolans hemsida](https://edugrade.com/yh-utbildning-och-nationell-yrkesutbildning/program/systemutvecklarenet-med-ai-kompetens/).
