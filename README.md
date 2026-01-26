@@ -45,7 +45,7 @@ Mina topp tre projekt utanför studierna är för tillfället:
 ---
 
 ### LIA & samarbete
-Jag söker **LIA-praktik för perioden december 2026 – maj 2027**.
+Jag söker **LIA-praktik för perioden november 2026 – april 2027**.
 
 Jag bidrar gärna i team där jag får:
 - arbeta nära andra utvecklare  
