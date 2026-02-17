@@ -1,76 +1,77 @@
+<div align="center">
+
 ## Viktor Johansson
-#### Systemutvecklare .NET • Nyfiken • Lösningsorienterad
 
-Jag har en pedagogisk och kreativ bakgrund och trivs i sammanhang där samarbete, struktur och problemlösning står i centrum.
+Bakgrund i pedagogik och kreativt arbete. Trivs där kod möter kommunikation och samarbete.
 
-I systemutveckling tar det sig uttryck i tydlig kod, flexibla lösningar och ett fokus på hur system används av individen.
+</div>
 
 ---
 
-### Tech stack
+<div align="center">
+  
+` Frontend `
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-##### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-##### Backend & språk  
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Entity%20Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)  
-##### Databaser & verktyg
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+` Backend & språk `
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+` Databaser & verktyg `
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ### Nuvarande fokus
-Studerar **Systemutvecklare .NET med AI-kompetens**[^Systemutveckling] på Edugrade i Hudiksvall. Examen VT27.  
-Mina topp tre projekt utanför studierna är för tillfället:
-- Angular-projekt: en [**Image-to-Ascii**-konverterare](https://asciiforge.vercel.app) med C#-backend och Angular som frontend. 
-- Utveckling av min [**portfolio-sida**](https://viktorjohansson.vercel.app) för att finslipa webbskills  
-- Utforskar det **ideala KPK-indexet** [^KPK] för olika programmeringsspråk
 
-[^Systemutveckling]: Länk till kursinnehåll på [skolans hemsida](https://edugrade.com/yh-utbildning-och-nationell-yrkesutbildning/program/systemutvecklarenet-med-ai-kompetens/).
-[^KPK]: KPK = *Kaffe per kodrad*. Ett högst vetenskapligt mått på produktivitet. En fältstudie som spänner sig över en hel livstid och som beställts, bedrivs samt finansieras av mig själv i vetenskapens namn.
+Studerar **Systemutvecklare .NET med AI-kompetens** på [Edugrade](https://edugrade.com/yh-utbildning-och-nationell-yrkesutbildning/program/systemutvecklarenet-med-ai-kompetens/) i Hudiksvall, och söker **LIA för perioden november 2026 – april 2027**.
 
----
+Mina topp tre projekt utanför studierna:
 
-### LIA & samarbete
-Jag söker **LIA-praktik för perioden november 2026 – april 2027**.
+[**Image-to-ASCII-konverterare**](https://asciiforge.vercel.app) · [**Portfolio-sida**](https://viktorjohansson.vercel.app) · Pågående fältstudie för det ideala KPK-indexet
 
-Jag bidrar gärna i team där jag får:
-- arbeta nära andra utvecklare  
-- bygga lösningar som används på riktigt  
-- kombinera teknik med kommunikation och samarbete  
+<details>
+<summary>Vad är KPK-indexet?</summary>
 
-Samtidigt vill jag se och förstå varför man väljer designmönster och systemarkitektur baserat på slutmålet.
+*Kaffe per kodrad.* Ett högst vetenskapligt mått på produktivitet. En fältstudie som spänner sig över en hel livstid och som beställts, bedrivs samt finansieras av mig själv i vetenskapens namn.
+
+</details>
+
+Kika bland mina [repos](https://github.com/stars/discovicke/lists/portfolio-projects) – pull requests välkomnas!
 
 ---
 
-### Samarbete & sidoprojekt
-Jag är alltid öppen för att **samarbeta på mindre projekt** och experimentera med idéer.  
-Med nyfikenhet och idérikedom lär jag mig gärna något nytt inom systemutveckling, det kan handla om allt från små verktyg till webbkomponenter eller experiment i fullstack. Ingen idé är för galen förrän man har testat!
 
-#### Se dig gärna omkring bland mina [repos](https://github.com/stars/discovicke/lists/portfolio-projects)
+<div align="center">
 
-Känner du för att bidra på ett av mina existerande projekt? **Skicka gärna en pull request**, jag kikar och ger feedback direkt.  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=discovicke&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=discovicke&layout=compact&theme=github_dark&hide_border=true)
 
----
-
-### Kontakt
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viktor_Johansson-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktorjohansson96/) [![GitHub](https://img.shields.io/badge/GitHub-discovicke-181717?style=flat&logo=github&logoColor=white)](https://github.com/discovicke)
+</div>
 
 ---
 
-### About me [🇬🇧/🇺🇸]
-I’m a curious and solution-oriented fullstack developer (.NET) with a background in education, mentoring and creativity.  
-Always open to collaboration – feel free to **send a pull request** on any of my projects!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viktor_Johansson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktorjohansson96/)
+[![GitHub](https://img.shields.io/badge/GitHub-discovicke-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/discovicke)
+
+</div>
