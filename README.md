@@ -45,23 +45,19 @@ Studerar **Systemutvecklare .NET med AI-kompetens** på [Edugrade](https://edugr
 
 Mina topp tre projekt utanför studierna:
 
-[**Image-to-ASCII-konverterare**](https://asciiforge.vercel.app) · [**Portfolio-sida**](https://viktorjohansson.vercel.app) · Pågående fältstudie för det ideala KPK-indexet
+[**Image-to-ASCII-konverterare**](https://asciiforge.vercel.app) | [**Portfolio-sida**](https://viktorjohansson.vercel.app) | Pågående fältstudie för det ideala KPK-indexet [^KPK]
 
-<details>
-<summary>Vad är KPK-indexet?</summary>
 
-*Kaffe per kodrad.* Ett högst vetenskapligt mått på produktivitet. En fältstudie som spänner sig över en hel livstid och som beställts, bedrivs samt finansieras av mig själv i vetenskapens namn.
+[^KPK]: *Kaffe per kodrad.* Ett högst vetenskapligt mått på produktivitet. En fältstudie som spänner sig över en hel livstid och som beställts, bedrivs samt finansieras av mig själv i vetenskapens namn.
 
-</details>
 
-Kika bland mina [repos](https://github.com/stars/discovicke/lists/portfolio-projects) – pull requests välkomnas!
+Kika bland mina [repos](https://github.com/stars/discovicke/lists/portfolio-projects) – *pull requests välkomnas!*
 
 ---
 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=discovicke&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=discovicke&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
