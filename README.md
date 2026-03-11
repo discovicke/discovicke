@@ -66,7 +66,8 @@ Kika bland mina [repos](https://github.com/stars/discovicke/lists/portfolio-proj
 
 
 <div align="center">
-
+  
+![](https://komarev.com/ghpvc/?username=discovicke&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viktor_Johansson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktorjohansson96/)
 [![GitHub](https://img.shields.io/badge/GitHub-discovicke-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/discovicke)
 
