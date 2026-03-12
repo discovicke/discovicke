@@ -4,7 +4,6 @@
 
 ![Based in Hudiksvall](https://img.shields.io/badge/Based_in-Hudiksvall-5E81AC?style=for-the-badge&logoColor=white)
 ![Student](https://img.shields.io/badge/Status-Student-4C566A?style=for-the-badge&logoColor=white)
-![Open to LIA](https://img.shields.io/badge/Open_to-LIA_🎯-81A1C1?style=for-the-badge&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=discovicke&style=for-the-badge&color=4C566A)
 
 Bakgrund i pedagogik och kreativt arbete. Trivs där kod möter kommunikation och samarbete.
@@ -48,7 +47,7 @@ Bakgrund i pedagogik och kreativt arbete. Trivs där kod möter kommunikation oc
 
 ### N U V A R A N D E &nbsp; F O K U S
 
-Studerar **Systemutvecklare .NET med AI-kompetens** på [Edugrade](https://edugrade.com/yh-utbildning-och-nationell-yrkesutbildning/program/systemutvecklarenet-med-ai-kompetens/) i Hudiksvall, och söker **LIA för perioden november 2026 – april 2027**.
+Studerar **Systemutvecklare .NET med AI-kompetens** på [Edugrade](https://edugrade.com/yh-utbildning-och-nationell-yrkesutbildning/program/systemutvecklarenet-med-ai-kompetens/) i Hudiksvall.
 
 Mina topp tre projekt utanför studierna:
 
