@@ -1,8 +1,6 @@
 <div align="center">
   
-![blur](https://capsule-render.vercel.app/api?type=blur&color=5E81AC&height=65)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=Viktor+Johansson;Systemutvecklare+.NET;)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=blur&color=5E81AC&height=110&text=Viktor+Johansson&fontColor=ECEFF4&fontSize=32&fontAlignY=45&desc=Systemutveckling+.NET&descSize=18&descAlignY=65&descAlign=50)
 
 ![Based in Hudiksvall](https://img.shields.io/badge/Based_in-Hudiksvall-5E81AC?style=for-the-badge&logoColor=white)
 ![Student](https://img.shields.io/badge/Status-Student-4C566A?style=for-the-badge&logoColor=white)
